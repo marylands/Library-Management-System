@@ -1,2 +1,2 @@
-# Library-Managment_System
+# Library-Management_System
 Final Exam CINF201
